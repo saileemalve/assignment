@@ -87,11 +87,11 @@ public class LoginPage {
 		log.info("enter registreing email " + email);
 		emailRegistration.sendKeys(email);
 	}
-	public RegistrationPage clickOnCreateAnAccount()
-	{
-		createAnaccount.click();
-		return new RegistrationPage(driver);
-	}
+
+	/*
+	 * public RegistrationPage clickOnCreateAnAccount() { createAnaccount.click();
+	 * return new RegistrationPage(driver); }
+	 */
 	public void loginToApplication(String emailAddress,String password)
 	{
 		clickOnsignInLink();
@@ -99,11 +99,11 @@ public class LoginPage {
 		enterPassword(password);
 		clickOnSubmitButton();
 	}
-	public ForgotPassword clickOnForgotPasswordLink()
-	{
-		forgotPassword.click();
-		return new ForgotPassword(driver);
-	}
+
+	/*
+	 * public ForgotPassword clickOnForgotPasswordLink() { forgotPassword.click();
+	 * return new ForgotPassword(driver); }
+	 */
 	public void logout()
 	{
 		logout.click();

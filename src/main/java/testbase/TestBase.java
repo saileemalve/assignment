@@ -31,13 +31,13 @@ import com.google.common.io.Files;
 import helper.browserConfiguration.ChromeBrowser;
 import helper.browserConfiguration.config.ObjectReader;
 import helper.browserConfiguration.config.PropertyReader;
-import helper.excel.ExcelHelper;
+//import helper.excel.ExcelHelper;
 import helper.javascript.JavascriptHelper;
 import helper.browserConfiguration.BrowserConfiguration.BrowserType;
 import helper.logger.LoggerHelper;
 import helper.resource.ResourceHelper;
 import helper.wait.WaitHelper;
-import practice.JavaScriptExecutor;
+//import practice.JavaScriptExecutor;
 import utils.ExtentManager;
 
 public class TestBase {
@@ -165,11 +165,12 @@ public class TestBase {
 		logExtentReport("navigating to..." + url);
 	}
 
-	public Object[][] getExcelData(String excelName, String sheetName) {
-		String excelLocation = ResourceHelper.getResourcePath("\\src\\main\\resources\\configFile\\") + excelName;
-		log.info("excelLocation " + excelLocation);
-		ExcelHelper excelHelper = new ExcelHelper();
-		Object[][] data = excelHelper.getExcelData(excelLocation, sheetName);
-		return data;
-	}
+	/*
+	 * public Object[][] getExcelData(String excelName, String sheetName) { String
+	 * excelLocation =
+	 * ResourceHelper.getResourcePath("\\src\\main\\resources\\configFile\\") +
+	 * excelName; log.info("excelLocation " + excelLocation); ExcelHelper
+	 * excelHelper = new ExcelHelper(); Object[][] data =
+	 * excelHelper.getExcelData(excelLocation, sheetName); return data; }
+	 */
 }

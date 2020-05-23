@@ -1765,3 +1765,56 @@ Session ID: fa2cbc62735ccce6de477e5b1a2cbe06
 2020-05-23 00:05:426 INFO  ProductCategoryPage:216 - verify total amount orderHisAmt
 2020-05-23 00:05:532 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //table[@id='order-list']//td[3]] is displayed  $35.02
 2020-05-23 00:05:566 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 16:05:728 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 16:05:183 INFO  TestBase:115 - initialize  web driver749486981
+2020-05-23 16:05:406 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 16:05:715 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 16:05:142 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 16:05:296 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-23 16:05:636 INFO  WaitHelper:98 - element id present now
+2020-05-23 16:05:636 INFO  LoginPage:59 - click on sign in link
+2020-05-23 16:05:465 INFO  LoginPage:65 - enter email
+2020-05-23 16:05:598 INFO  LoginPage:70 - enter passwordS
+2020-05-23 16:05:119 INFO  LoginPage:75 - clicking on submit button
+2020-05-23 16:05:178 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 16:05:67 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 16:05:68 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 16:05:118 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 16:05:205 INFO  WaitHelper:98 - element id present now
+2020-05-23 16:05:361 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //*[@id='center_column']/p] is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-23 16:05:418 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 16:05:418 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 16:05:444 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 16:05:488 INFO  WaitHelper:98 - element id present now
+2020-05-23 16:05:489 INFO  ProductCategoryPage:101 - clicking on WomenLink
+2020-05-23 16:05:850 INFO  ProductCategoryPage:194 - performaning mouse over on first product  of page
+2020-05-23 16:05:234 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]] is displayed  WOMEN
+2020-05-23 16:05:234 INFO  ProductCategoryPage:89 - clicking on quick view
+2020-05-23 16:05:560 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-23 16:05:600 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-23 16:05:601 INFO  ProductCategoryPage:112 - clicking on to quantity increase button
+2020-05-23 16:05:953 INFO  ProductCategoryPage:118 - clicking on Add to cart
+2020-05-23 16:05:135 INFO  ProductCategoryPage:124 - clicking on to proceed to checkout
+2020-05-23 16:05:168 INFO  ProductCategoryPage:132 - clicking on to orderProToCheckOut
+2020-05-23 16:05:210 INFO  ProductCategoryPage:138 - clicking on to addrProToCheckOut
+2020-05-23 16:05:939 INFO  ProductCategoryPage:144 - clicking on to carrProToCheckOut
+2020-05-23 16:05:288 INFO  ProductCategoryPage:150 - clicking on to termCondition
+2020-05-23 16:05:389 INFO  ProductCategoryPage:156 - clicking on to confirmOrder
+2020-05-23 16:05:271 INFO  ProductCategoryPage:201 - verify total amount before payment
+2020-05-23 16:05:406 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //span[@id='total_price']] is displayed  $35.02
+2020-05-23 16:05:433 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 16:05:459 INFO  ProductCategoryPage:162 - clicking on to bankWire
+2020-05-23 16:05:831 INFO  ProductCategoryPage:169 - clicking on to I confirm my order
+2020-05-23 16:05:182 INFO  ProductCategoryPage:175 - clicking on to acct_profile
+2020-05-23 16:05:338 INFO  ProductCategoryPage:208 - verify total amount before payment
+2020-05-23 16:05:373 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 16:05:445 INFO  WaitHelper:98 - element id present now
+2020-05-23 16:05:556 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //h1[@class='page-heading']] is displayed  MY ACCOUNT
+2020-05-23 16:05:593 INFO  VerificationHelper:42 - element text is MY ACCOUNT
+2020-05-23 16:05:623 INFO  LoginTest:55 - MY ACCOUNT
+2020-05-23 16:05:624 INFO  ProductCategoryPage:181 - clicking on to orderHostory
+2020-05-23 16:05:366 INFO  ProductCategoryPage:216 - verify total amount orderHisAmt
+2020-05-23 16:05:485 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (6bd712ffc3064008ab6e99899870e0df)] -> xpath: //table[@id='order-list']//td[3]] is displayed  $35.02
+2020-05-23 16:05:514 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 16:05:548 INFO  ExtentListener:31 - testProductCheckout reporter test success
+2020-05-23 16:05:298 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
