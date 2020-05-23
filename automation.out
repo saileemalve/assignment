@@ -1,0 +1,1767 @@
+2020-03-29 01:03:225 INFO  LoggerTest:23 - test 1
+2020-03-29 01:03:230 INFO  LoggerTest:24 - test 2
+2020-03-29 01:03:231 INFO  LoggerTest:25 - test 3
+2020-03-29 01:03:356 INFO  LoggerTest:23 - test 1
+2020-03-29 01:03:361 INFO  LoggerTest:24 - test 2
+2020-03-29 01:03:362 INFO  LoggerTest:25 - test 3
+2020-03-29 01:03:109 INFO  LoggerTest:24 - test 1
+2020-03-29 01:03:122 INFO  LoggerTest:25 - test 2
+2020-03-29 01:03:123 INFO  LoggerTest:26 - test 3
+2020-04-01 14:04:502 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 1 times
+2020-04-01 14:04:574 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 2 times
+2020-04-01 14:04:606 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 3 times
+2020-04-01 14:04:773 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 1 times
+2020-04-01 14:04:780 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 2 times
+2020-04-01 14:04:792 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 3 times
+2020-04-01 14:04:260 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 1 times
+2020-04-01 14:04:300 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 2 times
+2020-04-01 14:04:339 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 3 times
+2020-04-01 14:04:466 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 1 times
+2020-04-01 14:04:474 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 2 times
+2020-04-01 14:04:488 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 3 times
+2020-04-01 21:04:281 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 1 times
+2020-04-01 21:04:451 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 1 times
+2020-04-01 21:04:467 INFO  Retry:19 - Retrying TesttestLoginwith STATUS FAIL for the 2 times
+2020-04-01 21:04:244 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-01 21:04:403 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-01 21:04:417 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-01 21:04:846 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-01 21:04:958 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-01 21:04:969 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-01 21:04:600 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-01 21:04:673 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 2 times
+2020-04-01 21:04:330 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-01 21:04:363 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-01 21:04:250 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-01 21:04:287 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 2 times
+2020-04-01 21:04:415 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-01 21:04:435 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-01 21:04:453 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 3 times
+2020-04-01 21:04:932 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-01 21:04:970 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 2 times
+2020-04-01 21:04:85 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-01 21:04:99 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-01 21:04:116 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 3 times
+2020-04-02 16:04:43 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-02 16:04:113 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 2 times
+2020-04-02 16:04:178 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-02 16:04:187 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-02 16:04:199 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 3 times
+2020-04-03 00:04:598 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-03 00:04:666 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 2 times
+2020-04-03 00:04:815 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-03 00:04:824 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-03 00:04:854 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 3 times
+2020-04-03 00:04:303 INFO  ExcelHelper:125 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:123 INFO  ExcelHelper:125 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:867 INFO  ExcelHelper:125 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:470 INFO  ExcelHelper:125 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:939 INFO  ExcelHelper:129 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:677 INFO  ExcelHelper:129 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:780 INFO  ExcelHelper:129 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:191 INFO  ExcelHelper:110 - result updated...
+2020-04-03 00:04:565 INFO  ExcelHelper:129 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 00:04:953 INFO  ExcelHelper:110 - result updated...
+2020-04-03 01:04:748 INFO  ExcelHelper:129 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:121 INFO  ExcelHelper:110 - result updated...
+2020-04-03 01:04:389 INFO  ExcelHelper:130 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:920 INFO  ExcelHelper:110 - result updated...
+2020-04-03 01:04:755 INFO  ExcelHelper:128 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:300 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:479 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:783 INFO  ExcelHelper:128 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:400 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:914 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:172 INFO  ExcelHelper:128 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:529 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:996 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:189 INFO  ExcelHelper:108 - result updated...
+2020-04-03 01:04:324 INFO  ExcelHelper:128 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:299 INFO  ExcelHelper:40 - 4
+2020-04-03 01:04:812 INFO  ExcelHelper:43 - 4
+2020-04-03 01:04:817 INFO  ExcelHelper:45 - dataset [[Ljava.lang.Object;@6b3e12b5
+2020-04-03 01:04:688 INFO  ExcelHelper:52 - <xml-fragment r="1" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A1" t="s">
+    <main:v>0</main:v>
+  </main:c>
+  <main:c r="B1" t="s">
+    <main:v>1</main:v>
+  </main:c>
+  <main:c r="C1" t="s">
+    <main:v>2</main:v>
+  </main:c>
+  <main:c r="D1" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:687 INFO  ExcelHelper:52 - <xml-fragment r="2" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C2" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D2" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:289 INFO  ExcelHelper:52 - <xml-fragment r="3" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C3" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D3" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:344 INFO  ExcelHelper:52 - <xml-fragment r="4" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C4" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D4" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:529 INFO  ExcelHelper:52 - <xml-fragment r="5" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D5" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:551 INFO  ExcelHelper:128 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-03 01:04:736 INFO  ExcelHelper:40 - 4
+2020-04-03 01:04:400 INFO  ExcelHelper:43 - 4
+2020-04-03 01:04:402 INFO  ExcelHelper:45 - dataset [[Ljava.lang.Object;@6c45ee6e
+2020-04-03 01:04:832 INFO  ExcelHelper:52 - <xml-fragment r="1" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A1" t="s">
+    <main:v>0</main:v>
+  </main:c>
+  <main:c r="B1" t="s">
+    <main:v>1</main:v>
+  </main:c>
+  <main:c r="C1" t="s">
+    <main:v>2</main:v>
+  </main:c>
+  <main:c r="D1" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:199 INFO  ExcelHelper:52 - <xml-fragment r="2" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C2" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D2" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:662 INFO  ExcelHelper:52 - <xml-fragment r="3" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C3" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D3" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:935 INFO  ExcelHelper:52 - <xml-fragment r="4" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C4" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D4" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-03 01:04:671 INFO  ExcelHelper:52 - <xml-fragment r="5" spans="1:4" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>5</main:v>
+  </main:c>
+  <main:c r="C5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="D5" t="s">
+    <main:v>7</main:v>
+  </main:c>
+</xml-fragment>
+2020-04-06 18:04:432 INFO  TestBase:101 - 
+2020-04-06 18:04:255 INFO  TestBase:101 - 
+2020-04-06 18:04:759 INFO  TestBase:101 - 
+2020-04-06 18:04:40 INFO  TestBase:101 - 
+2020-04-06 18:04:202 INFO  TestBase:101 - 
+2020-04-06 18:04:729 INFO  TestBase:102 - 
+2020-04-06 18:04:783 INFO  TestBase:102 - 
+2020-04-06 18:04:675 INFO  TestBase:102 - 
+2020-04-06 18:04:117 INFO  ExcelHelper:128 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-06 18:04:561 INFO  ExcelHelper:40 - 4
+2020-04-06 18:04:562 INFO  ExcelHelper:43 - 4
+2020-04-06 18:04:562 INFO  ExcelHelper:45 - dataset [[Ljava.lang.Object;@d5b810e
+2020-04-06 19:04:126 INFO  TestBase:102 - 
+2020-04-06 19:04:417 INFO  TestBase:109 - initialize  web driver1264701638
+2020-04-06 20:04:846 INFO  TestBase:103 - initialize  web driver1114335860
+2020-04-06 20:04:530 INFO  TestBase:103 - initialize  web driver708926121
+2020-04-06 20:04:754 INFO  TestBase:103 - initialize  web driver137533655
+2020-04-07 19:04:157 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 1 times
+2020-04-07 19:04:181 INFO  Retry:19 - Retrying Test testLoginB with STATUS FAILURE for the 2 times
+2020-04-07 19:04:668 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 1 times
+2020-04-07 19:04:690 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 2 times
+2020-04-07 19:04:708 INFO  Retry:19 - Retrying Test testLoginC with STATUS FAILURE for the 3 times
+2020-04-10 15:04:784 INFO  TestBase:104 - initialize  web driver2002790740
+2020-04-10 16:04:369 INFO  TestBase:119 - initialize  web driver742255664
+2020-04-10 16:04:680 INFO  TestBase:119 - initialize  web driver1155757579
+2020-04-10 16:04:620 INFO  TestBase:119 - initialize  web driver749981943
+2020-04-10 16:04:198 INFO  TestBase:119 - initialize  web driver883521348
+2020-04-10 16:04:296 INFO  TestBase:119 - initialize  web driver2086068243
+2020-04-12 02:04:400 INFO  TestBase:118 - initialize  web driver742255664
+2020-04-12 02:04:491 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 02:04:705 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 02:04:547 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (d6de00a0063f58a5d057d6ed5650e169)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-12 02:04:943 INFO  WaitHelper:98 - element id present now
+2020-04-12 02:04:943 INFO  TestBase:150 - capturing ui navigation screen...
+2020-04-12 02:04:100 INFO  LoginPage:53 - click on sign in link
+2020-04-12 02:04:541 INFO  LoginPage:58 - enter email
+2020-04-12 02:04:99 INFO  LoginPage:63 - enter passwordS
+2020-04-12 02:04:334 INFO  LoginPage:68 - clicking on submit button
+2020-04-12 02:04:366 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-12 02:04:347 ERROR VerificationHelper:28 - element is not presentnull
+2020-04-12 03:04:149 INFO  TestBase:118 - initialize  web driver742255664
+2020-04-12 03:04:476 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 03:04:525 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 03:04:573 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6d8c8030b9f37a754155965332c52272)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-12 03:04:419 INFO  WaitHelper:98 - element id present now
+2020-04-12 03:04:423 INFO  TestBase:150 - capturing ui navigation screen...
+2020-04-12 03:04:404 INFO  LoginPage:53 - click on sign in link
+2020-04-12 03:04:59 INFO  LoginPage:58 - enter email
+2020-04-12 03:04:942 INFO  LoginPage:63 - enter passwordS
+2020-04-12 03:04:177 INFO  LoginPage:68 - clicking on submit button
+2020-04-12 03:04:199 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-12 03:04:83 ERROR VerificationHelper:28 - element is not presentnull
+2020-04-12 03:04:462 INFO  TestBase:118 - initialize  web driver742255664
+2020-04-12 03:04:495 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 03:04:523 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 18:04:604 INFO  TestBase:113 - initialize  web driver1863100050
+2020-04-12 18:04:648 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 18:04:259 INFO  TestBase:166 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFiletestData.xlsx
+2020-04-12 18:04:413 INFO  TestBase:113 - initialize  web driver749981943
+2020-04-12 18:04:428 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 18:04:438 INFO  TestBase:166 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-12 18:04:284 INFO  ExcelHelper:40 - 3
+2020-04-12 18:04:284 INFO  ExcelHelper:43 - 3
+2020-04-12 18:04:288 INFO  ExcelHelper:45 - dataset [[Ljava.lang.Object;@460b6d54
+2020-04-12 18:04:691 INFO  TestBase:113 - initialize  web driver810262298
+2020-04-12 18:04:865 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:142 INFO  TestBase:113 - initialize  web driver237373286
+2020-04-12 19:04:232 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:629 INFO  TestBase:113 - initialize  web driver910504711
+2020-04-12 19:04:659 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:855 INFO  TestBase:113 - initialize  web driver1863100050
+2020-04-12 19:04:861 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:867 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:956 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6c6d49cb4ad748637885f87b4d20af81)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-12 19:04:158 INFO  WaitHelper:98 - element id present now
+2020-04-12 19:04:159 INFO  TestBase:145 - capturing ui navigation screen...
+2020-04-12 19:04:473 INFO  TestBase:166 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-12 19:04:177 INFO  ExcelHelper:40 - 3
+2020-04-12 19:04:179 INFO  ExcelHelper:43 - 3
+2020-04-12 19:04:180 INFO  ExcelHelper:45 - dataset [[Ljava.lang.Object;@7c6442c2
+2020-04-12 19:04:367 INFO  TestBase:113 - initialize  web driver2021835850
+2020-04-12 19:04:498 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:246 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:592 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (03497acac256e0d2ceedc651b02617ab)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-12 19:04:349 INFO  WaitHelper:98 - element id present now
+2020-04-12 19:04:350 INFO  TestBase:145 - capturing ui navigation screen...
+2020-04-12 19:04:504 INFO  TestBase:166 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-12 19:04:591 INFO  TestBase:113 - initialize  web driver136312946
+2020-04-12 19:04:716 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:634 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 19:04:977 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (0b6c82406b8912f8e2a6c49ee7f8b055)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-12 19:04:766 INFO  WaitHelper:98 - element id present now
+2020-04-12 19:04:767 INFO  TestBase:145 - capturing ui navigation screen...
+2020-04-12 19:04:924 INFO  TestBase:166 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-12 19:04:602 INFO  ExcelHelper:40 - total row: 3
+2020-04-12 19:04:880 INFO  ExcelHelper:43 - totalCol 4
+2020-04-12 19:04:806 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@2016f509
+2020-04-12 20:04:769 INFO  TestBase:113 - initialize  web driver883521348
+2020-04-12 20:04:36 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 23:04:168 INFO  TestBase:115 - initialize  web driver2021835850
+2020-04-12 23:04:232 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-12 23:04:372 INFO  TestBase:170 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-12 23:04:456 INFO  ExcelHelper:40 - total row: 3
+2020-04-12 23:04:958 INFO  ExcelHelper:43 - totalCol 4
+2020-04-12 23:04:56 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@7e2c64
+2020-04-13 01:04:77 INFO  ExcelHelper:130 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 01:04:191 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 01:04:386 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 01:04:121 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@64ba3208
+2020-04-13 01:04:220 INFO  ExcelHelper:130 - F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 01:04:608 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 01:04:612 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 01:04:614 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@64ba3208
+2020-04-13 01:04:127 INFO  TestBase:115 - initialize  web driver749981943
+2020-04-13 01:04:811 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 01:04:371 INFO  TestBase:170 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 01:04:766 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 01:04:767 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 01:04:768 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@1bbae752
+2020-04-13 01:04:279 INFO  TestBase:115 - initialize  web driver749981943
+2020-04-13 01:04:576 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 01:04:848 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 01:04:567 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (b9e74baee83449506a58fda683cdf786)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-13 01:04:767 INFO  WaitHelper:98 - element id present now
+2020-04-13 01:04:811 INFO  TestBase:170 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 01:04:264 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 01:04:271 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 01:04:275 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@15cea7b0
+2020-04-13 01:04:351 INFO  TestBase:115 - initialize  web driver1227224309
+2020-04-13 01:04:417 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 01:04:51 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 01:04:829 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (b895f2f08134cae0af9a39d9774c2921)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-13 01:04:651 INFO  WaitHelper:98 - element id present now
+2020-04-13 01:04:809 INFO  TestBase:170 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 01:04:763 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 01:04:769 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 01:04:774 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@6a4ccef7
+2020-04-13 01:04:82 INFO  LoginPage:55 - click on sign in link
+2020-04-13 01:04:349 INFO  LoginPage:60 - enter email
+2020-04-13 01:04:652 INFO  LoginPage:65 - enter passwordS
+2020-04-13 01:04:951 INFO  LoginPage:70 - clicking on submit button
+2020-04-13 01:04:997 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-13 01:04:839 ERROR VerificationHelper:28 - element is not presentnull
+2020-04-13 14:04:679 INFO  TestBase:115 - initialize  web driver385332399
+2020-04-13 14:04:813 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 14:04:861 INFO  TestBase:115 - initialize  web driver616412281
+2020-04-13 14:04:915 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 14:04:464 INFO  TestBase:115 - initialize  web driver2002097394
+2020-04-13 14:04:468 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 14:04:946 INFO  TestBase:121 - initialize  web driver1466413743
+2020-04-13 14:04:118 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 15:04:913 INFO  ExtentListener:61 - FirstNametestng reporter test started...
+2020-04-13 15:04:11 INFO  ExtentListener:24 - testLoginA reporter test start
+2020-04-13 15:04:64 INFO  ExtentListener:31 - testLoginA reporter test success
+2020-04-13 15:04:546 INFO  ExtentListener:67 - FirstName reporter test finished...
+2020-04-13 15:04:584 INFO  ExtentListener:61 - SecondNametestng reporter test started...
+2020-04-13 15:04:593 INFO  ExtentListener:24 - testLoginB reporter test start
+2020-04-13 15:04:612 ERROR ExtentListener:37 - testLoginB reporter test failed java.lang.AssertionError: did not expect to find [true] but found [false]
+2020-04-13 15:04:653 INFO  ExtentListener:67 - SecondName reporter test finished...
+2020-04-13 15:04:696 INFO  ExtentListener:61 - ThirdNametestng reporter test started...
+2020-04-13 15:04:701 INFO  ExtentListener:24 - testLoginC reporter test start
+2020-04-13 15:04:710 ERROR ExtentListener:37 - testLoginC reporter test failed java.lang.AssertionError: did not expect to find [true] but found [false]
+2020-04-13 15:04:740 INFO  ExtentListener:67 - ThirdName reporter test finished...
+2020-04-13 15:04:765 INFO  ExtentListener:61 - TestScreenShottestng reporter test started...
+2020-04-13 15:04:801 INFO  TestBase:121 - initialize  web driver988904418
+2020-04-13 15:04:804 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 15:04:138 INFO  ExtentListener:24 - testScreen reporter test start
+2020-04-13 15:04:456 INFO  ExtentListener:31 - testScreen reporter test success
+2020-04-13 15:04:38 INFO  ExtentListener:67 - TestScreenShot reporter test finished...
+2020-04-13 15:04:222 INFO  ExtentListener:62 - FirstNametestng reporter test started...
+2020-04-13 15:04:331 INFO  ExtentListener:24 - testLoginA reporter test start
+2020-04-13 15:04:356 INFO  ExtentListener:31 - testLoginA reporter test success
+2020-04-13 15:04:445 INFO  ExtentListener:68 - FirstName reporter test finished...
+2020-04-13 15:04:477 INFO  ExtentListener:62 - SecondNametestng reporter test started...
+2020-04-13 15:04:484 INFO  ExtentListener:24 - testLoginB reporter test start
+2020-04-13 15:04:501 ERROR ExtentListener:37 - testLoginB reporter test failed java.lang.AssertionError: did not expect to find [true] but found [false]
+2020-04-13 15:04:537 INFO  ExtentListener:68 - SecondName reporter test finished...
+2020-04-13 15:04:566 INFO  ExtentListener:62 - ThirdNametestng reporter test started...
+2020-04-13 15:04:571 INFO  ExtentListener:24 - testLoginC reporter test start
+2020-04-13 15:04:582 ERROR ExtentListener:37 - testLoginC reporter test failed java.lang.AssertionError: did not expect to find [true] but found [false]
+2020-04-13 15:04:601 INFO  ExtentListener:68 - ThirdName reporter test finished...
+2020-04-13 15:04:622 INFO  ExtentListener:62 - TestScreenShottestng reporter test started...
+2020-04-13 15:04:71 INFO  TestBase:121 - initialize  web driver665137804
+2020-04-13 15:04:73 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 15:04:330 INFO  ExtentListener:24 - testScreen reporter test start
+2020-04-13 15:04:865 INFO  ExtentListener:31 - testScreen reporter test success
+2020-04-13 15:04:432 INFO  ExtentListener:68 - TestScreenShot reporter test finished...
+2020-04-13 15:04:356 INFO  TestBase:121 - initialize  web driver739264372
+2020-04-13 15:04:665 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 15:04:547 INFO  TestBase:176 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 15:04:409 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 15:04:410 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 15:04:412 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@7b2a3ff8
+2020-04-13 16:04:257 INFO  TestBase:115 - initialize  web driver1863100050
+2020-04-13 16:04:608 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 16:04:336 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 16:04:951 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (b8dd4f3c5693ce2cf78d2a942900c7a0)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-13 16:04:236 INFO  WaitHelper:98 - element id present now
+2020-04-13 16:04:408 INFO  TestBase:170 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 16:04:644 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 16:04:648 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 16:04:649 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@66ba7e45
+2020-04-13 16:04:722 INFO  LoginPage:57 - click on sign in link
+2020-04-13 16:04:946 INFO  LoginPage:62 - enter email
+2020-04-13 16:04:536 INFO  LoginPage:67 - enter passwordS
+2020-04-13 16:04:140 INFO  LoginPage:72 - clicking on submit button
+2020-04-13 16:04:613 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-13 16:04:207 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-04-13 16:04:575 INFO  LoginPage:57 - click on sign in link
+2020-04-13 16:04:417 INFO  LoginPage:62 - enter email
+2020-04-13 16:04:717 INFO  TestBase:115 - initialize  web driver1863100050
+2020-04-13 16:04:381 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 16:04:686 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-13 16:04:220 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (61212218828895745ad9641b2cad40a8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-13 16:04:747 INFO  WaitHelper:98 - element id present now
+2020-04-13 16:04:793 INFO  TestBase:170 - excelLocation F:\software1\JAVA&SELENIUM_PROGRAM\practice\src\main\resources\configFile\testData.xlsx
+2020-04-13 16:04:119 INFO  ExcelHelper:40 - total row: 3
+2020-04-13 16:04:121 INFO  ExcelHelper:43 - totalCol 4
+2020-04-13 16:04:123 INFO  ExcelHelper:45 - dataset: [[Ljava.lang.Object;@66ba7e45
+2020-04-13 16:04:264 INFO  LoginPage:57 - click on sign in link
+2020-04-13 16:04:281 INFO  LoginPage:62 - enter email
+2020-04-13 16:04:758 INFO  LoginPage:67 - enter passwordS
+2020-04-13 16:04:109 INFO  LoginPage:72 - clicking on submit button
+2020-04-13 16:04:264 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-13 16:04:987 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-04-13 16:04:312 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (61212218828895745ad9641b2cad40a8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-13 16:04:375 INFO  WaitHelper:98 - element id present now
+2020-04-13 16:04:390 INFO  LoginPage:57 - click on sign in link
+2020-04-13 16:04:434 INFO  LoginPage:62 - enter email
+2020-04-13 16:04:764 INFO  LoginPage:67 - enter passwordS
+2020-04-13 16:04:936 INFO  LoginPage:72 - clicking on submit button
+2020-04-13 16:04:937 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-13 16:04:773 ERROR VerificationHelper:28 - element is not presentnull
+2020-04-27 00:04:507 INFO  TestBase:115 - initialize  web driver237373286
+2020-04-27 00:04:674 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-27 00:04:943 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-27 00:04:384 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e19808762e0e63c6afbdef46564af70d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-27 00:04:809 INFO  WaitHelper:98 - element id present now
+2020-04-27 00:04:810 INFO  LoginPage:57 - click on sign in link
+2020-04-27 00:04:406 INFO  LoginPage:62 - enter email
+2020-04-27 00:04:375 INFO  LoginPage:67 - enter passwordS
+2020-04-27 00:04:673 INFO  LoginPage:72 - clicking on submit button
+2020-04-27 00:04:826 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-27 00:04:834 ERROR VerificationHelper:28 - element is not presentnull
+2020-04-27 00:04:69 INFO  TestBase:115 - initialize  web driver883521348
+2020-04-27 00:04:118 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-27 00:04:772 INFO  WaitHelper:29 - waitHelper object is created 
+2020-04-27 00:04:275 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (cc2afae1bcf4db9cfe31046152c60eeb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-04-27 00:04:553 INFO  WaitHelper:98 - element id present now
+2020-04-27 00:04:555 INFO  LoginPage:57 - click on sign in link
+2020-04-27 00:04:296 INFO  LoginPage:62 - enter email
+2020-04-27 00:04:676 INFO  LoginPage:67 - enter passwordS
+2020-04-27 00:04:839 INFO  LoginPage:72 - clicking on submit button
+2020-04-27 00:04:998 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-04-27 00:04:737 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-21 19:05:42 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 19:05:645 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:598 INFO  ExtentListener:62 - LoginTesttestng reporter test started...
+2020-05-21 20:05:03 INFO  TestBase:115 - initialize  web driver1627010197
+2020-05-21 20:05:73 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:589 INFO  ExtentListener:24 - testLoginToApplication reporter test start
+2020-05-21 20:05:96 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:717 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (bd594ceff1f77d659880f23ac05fc74b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 20:05:993 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:994 INFO  LoginPage:58 - click on sign in link
+2020-05-21 20:05:517 INFO  LoginPage:64 - enter email
+2020-05-21 20:05:195 INFO  LoginPage:69 - enter passwordS
+2020-05-21 20:05:420 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 20:05:655 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:466 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:491 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (bd594ceff1f77d659880f23ac05fc74b)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 20:05:564 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:565 INFO  TestBase:147 - capturing ui navigation screen...
+2020-05-21 20:05:568 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:758 ERROR ExtentListener:37 - testLoginToApplication reporter test failed org.openqa.selenium.JavascriptException: javascript error: Unexpected token '}'
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55803}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bd594ceff1f77d659880f23ac05fc74b
+2020-05-21 20:05:205 INFO  ExtentListener:68 - LoginTest reporter test finished...
+2020-05-21 20:05:237 INFO  ExtentListener:62 - productChechoutTesttestng reporter test started...
+2020-05-21 20:05:635 INFO  TestBase:115 - initialize  web driver1096343229
+2020-05-21 20:05:635 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:787 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 20:05:877 ERROR ExtentListener:37 - testProductCheckout reporter test failed java.lang.NullPointerException
+2020-05-21 20:05:384 INFO  ExtentListener:24 - testAmountInOrderHistoty reporter test start
+2020-05-21 20:05:386 INFO  ProductCategoryPage:128 - clicking on to acct_profile
+2020-05-21 20:05:390 ERROR ExtentListener:37 - testAmountInOrderHistoty reporter test failed java.lang.NullPointerException
+2020-05-21 20:05:920 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 20:05:85 INFO  ExtentListener:62 - productChechoutTesttestng reporter test started...
+2020-05-21 20:05:485 INFO  TestBase:115 - initialize  web driver1910896157
+2020-05-21 20:05:496 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:23 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 20:05:605 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:360 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (4e997aa4a3d1f7aa79a21de89d9e75b6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 20:05:154 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:155 INFO  LoginPage:58 - click on sign in link
+2020-05-21 20:05:588 INFO  LoginPage:64 - enter email
+2020-05-21 20:05:350 INFO  LoginPage:69 - enter passwordS
+2020-05-21 20:05:629 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 20:05:653 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:325 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:410 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (4e997aa4a3d1f7aa79a21de89d9e75b6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 20:05:515 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:516 INFO  TestBase:147 - capturing ui navigation screen...
+2020-05-21 20:05:521 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:780 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.JavascriptException: javascript error: Unexpected token '}'
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:56132}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4e997aa4a3d1f7aa79a21de89d9e75b6
+2020-05-21 20:05:728 INFO  ExtentListener:24 - testAmountInOrderHistoty reporter test start
+2020-05-21 20:05:729 INFO  ProductCategoryPage:128 - clicking on to acct_profile
+2020-05-21 20:05:742 ERROR ExtentListener:37 - testAmountInOrderHistoty reporter test failed java.lang.NullPointerException
+2020-05-21 20:05:879 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 20:05:870 INFO  ExtentListener:62 - productChechoutTesttestng reporter test started...
+2020-05-21 20:05:911 INFO  TestBase:115 - initialize  web driver988179589
+2020-05-21 20:05:978 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:799 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 20:05:246 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:334 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (79cbdd4161ba904e5448a7e665378b3e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 20:05:76 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:206 INFO  LoginPage:58 - click on sign in link
+2020-05-21 20:05:986 INFO  LoginPage:64 - enter email
+2020-05-21 20:05:198 INFO  LoginPage:69 - enter passwordS
+2020-05-21 20:05:691 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 20:05:805 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:307 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:516 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (79cbdd4161ba904e5448a7e665378b3e)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 20:05:957 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:703 INFO  TestBase:147 - capturing ui navigation screen...
+2020-05-21 20:05:828 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:920 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.JavascriptException: javascript error: Unexpected token '}'
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:56524}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 79cbdd4161ba904e5448a7e665378b3e
+2020-05-21 20:05:106 INFO  ExtentListener:24 - testAmountInOrderHistoty reporter test start
+2020-05-21 20:05:127 INFO  ProductCategoryPage:128 - clicking on to acct_profile
+2020-05-21 20:05:580 ERROR ExtentListener:37 - testAmountInOrderHistoty reporter test failed java.lang.NullPointerException
+2020-05-21 20:05:792 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 20:05:190 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:334 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:135 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:439 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:507 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-21 20:05:848 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-21 20:05:923 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:482 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 20:05:806 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:51 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d5f69da16fe40bd79ac474010ee16a8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 20:05:779 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:780 INFO  LoginPage:58 - click on sign in link
+2020-05-21 20:05:445 INFO  LoginPage:64 - enter email
+2020-05-21 20:05:525 INFO  LoginPage:69 - enter passwordS
+2020-05-21 20:05:689 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 20:05:755 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 20:05:14 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:41 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d5f69da16fe40bd79ac474010ee16a8)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 20:05:152 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:991 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-21 20:05:58 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 20:05:76 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d5f69da16fe40bd79ac474010ee16a8)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 20:05:136 INFO  WaitHelper:98 - element id present now
+2020-05-21 20:05:140 INFO  ProductCategoryPage:141 - performaning mouse over on first product  of page
+2020-05-21 20:05:418 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-21 20:05:655 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58038}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3d5f69da16fe40bd79ac474010ee16a8
+*** Element info: {Using=xpath, value=//li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']}
+2020-05-21 20:05:428 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 21:05:766 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-21 21:05:590 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-21 21:05:658 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:240 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 21:05:169 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:685 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (67ff071301a97664032f84a43279f13c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 21:05:62 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:63 INFO  LoginPage:58 - click on sign in link
+2020-05-21 21:05:661 INFO  LoginPage:64 - enter email
+2020-05-21 21:05:397 INFO  LoginPage:69 - enter passwordS
+2020-05-21 21:05:749 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 21:05:782 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 21:05:885 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:975 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (67ff071301a97664032f84a43279f13c)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 21:05:55 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:544 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-21 21:05:672 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:693 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (67ff071301a97664032f84a43279f13c)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 21:05:765 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:766 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-21 21:05:810 INFO  ProductCategoryPage:140 - performaning mouse over on first product  of page
+2020-05-21 21:05:944 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (67ff071301a97664032f84a43279f13c)] -> xpath: //li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']]200 seconds
+2020-05-21 21:05:25 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:170 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-21 21:05:171 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-21 21:05:284 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@id='fancybox-frame1590065576742']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 67ff071301a97664032f84a43279f13c
+*** Element info: {Using=xpath, value=//iframe[@id='fancybox-frame1590065576742']}
+2020-05-21 21:05:279 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 21:05:578 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-21 21:05:707 INFO  TestBase:115 - initialize  web driver1107772887
+2020-05-21 21:05:772 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:542 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 21:05:609 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:475 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d7bf3a99524d8b8043be73e416293bd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 21:05:55 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:388 INFO  LoginPage:58 - click on sign in link
+2020-05-21 21:05:481 INFO  LoginPage:64 - enter email
+2020-05-21 21:05:843 INFO  LoginPage:69 - enter passwordS
+2020-05-21 21:05:123 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 21:05:166 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 21:05:56 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:315 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d7bf3a99524d8b8043be73e416293bd)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 21:05:60 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:797 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-21 21:05:877 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:154 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d7bf3a99524d8b8043be73e416293bd)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 21:05:765 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:768 INFO  ProductCategoryPage:79 - clicking on WomenLink
+2020-05-21 21:05:998 INFO  ProductCategoryPage:141 - performaning mouse over on first product  of page
+2020-05-21 21:05:882 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3d7bf3a99524d8b8043be73e416293bd)] -> xpath: //li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']]200 seconds
+2020-05-21 21:05:228 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (3d7bf3a99524d8b8043be73e416293bd)] -> xpath: //li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']] (tried for 200 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59577}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3d7bf3a99524d8b8043be73e416293bd
+2020-05-21 21:05:113 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 21:05:501 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-21 21:05:240 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-21 21:05:286 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:573 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 21:05:693 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:186 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62c8c00d465244e5da7d1af4ad50dc6f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 21:05:306 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:307 INFO  LoginPage:58 - click on sign in link
+2020-05-21 21:05:749 INFO  LoginPage:64 - enter email
+2020-05-21 21:05:112 INFO  LoginPage:69 - enter passwordS
+2020-05-21 21:05:327 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 21:05:382 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 21:05:739 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:768 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62c8c00d465244e5da7d1af4ad50dc6f)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 21:05:882 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:56 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-21 21:05:105 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 21:05:121 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62c8c00d465244e5da7d1af4ad50dc6f)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 21:05:198 INFO  WaitHelper:98 - element id present now
+2020-05-21 21:05:199 INFO  ProductCategoryPage:79 - clicking on WomenLink
+2020-05-21 21:05:294 INFO  ProductCategoryPage:141 - performaning mouse over on first product  of page
+2020-05-21 21:05:236 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62c8c00d465244e5da7d1af4ad50dc6f)] -> xpath: //li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']]200 seconds
+2020-05-21 21:05:398 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (62c8c00d465244e5da7d1af4ad50dc6f)] -> xpath: //li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']] (tried for 200 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59912}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 62c8c00d465244e5da7d1af4ad50dc6f
+2020-05-21 21:05:578 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-21 21:05:756 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-21 22:05:327 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-21 22:05:388 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 22:05:925 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-21 22:05:444 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 22:05:364 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (a9c16efd26aba12365feb080c3bf7ca1)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-21 22:05:547 INFO  WaitHelper:98 - element id present now
+2020-05-21 22:05:548 INFO  LoginPage:58 - click on sign in link
+2020-05-21 22:05:617 INFO  LoginPage:64 - enter email
+2020-05-21 22:05:639 INFO  LoginPage:69 - enter passwordS
+2020-05-21 22:05:837 INFO  LoginPage:74 - clicking on submit button
+2020-05-21 22:05:885 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-21 22:05:266 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 22:05:317 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (a9c16efd26aba12365feb080c3bf7ca1)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 22:05:390 INFO  WaitHelper:98 - element id present now
+2020-05-21 22:05:544 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-21 22:05:609 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-21 22:05:625 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (a9c16efd26aba12365feb080c3bf7ca1)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-21 22:05:679 INFO  WaitHelper:98 - element id present now
+2020-05-21 22:05:680 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-21 22:05:86 INFO  ProductCategoryPage:143 - performaning mouse over on first product  of page
+2020-05-21 22:05:420 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-21 22:05:420 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-21 22:05:556 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60811}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a9c16efd26aba12365feb080c3bf7ca1
+*** Element info: {Using=xpath, value=//li[@class='ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line']//a[@class='quick-view']}
+2020-05-21 22:05:416 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 00:05:19 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 00:05:167 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 00:05:442 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:936 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 00:05:176 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:452 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (ea37f5c8698d8099015fd46948b2afa5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 00:05:882 INFO  WaitHelper:98 - element id present now
+2020-05-22 00:05:883 INFO  LoginPage:58 - click on sign in link
+2020-05-22 00:05:391 INFO  LoginPage:64 - enter email
+2020-05-22 00:05:908 INFO  LoginPage:69 - enter passwordS
+2020-05-22 00:05:113 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 00:05:140 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 00:05:278 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:305 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (ea37f5c8698d8099015fd46948b2afa5)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 00:05:412 INFO  WaitHelper:98 - element id present now
+2020-05-22 00:05:600 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 00:05:677 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:693 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (ea37f5c8698d8099015fd46948b2afa5)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 00:05:754 INFO  WaitHelper:98 - element id present now
+2020-05-22 00:05:755 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-22 00:05:649 INFO  ProductCategoryPage:143 - performaning mouse over on first product  of page
+2020-05-22 00:05:16 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 00:05:17 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-22 00:05:534 INFO  WaitHelper:95 - waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='fancybox-frame1590076193768']'200 seconds
+2020-05-22 00:05:742 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 00:05:992 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 00:05:995 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:284 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 00:05:552 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:600 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62f91c1282b7f7be28c700c48ab9d691)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 00:05:955 INFO  WaitHelper:98 - element id present now
+2020-05-22 00:05:957 INFO  LoginPage:58 - click on sign in link
+2020-05-22 00:05:291 INFO  LoginPage:64 - enter email
+2020-05-22 00:05:557 INFO  LoginPage:69 - enter passwordS
+2020-05-22 00:05:823 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 00:05:193 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 00:05:263 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:306 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62f91c1282b7f7be28c700c48ab9d691)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 00:05:406 INFO  WaitHelper:98 - element id present now
+2020-05-22 00:05:582 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 00:05:607 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 00:05:623 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (62f91c1282b7f7be28c700c48ab9d691)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 00:05:682 INFO  WaitHelper:98 - element id present now
+2020-05-22 00:05:684 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-22 00:05:764 INFO  ProductCategoryPage:143 - performaning mouse over on first product  of page
+2020-05-22 00:05:62 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 00:05:63 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-22 00:05:510 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='fancybox-frame1590076193768']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50255}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 62f91c1282b7f7be28c700c48ab9d691
+*** Element info: {Using=xpath, value=//*[@id='fancybox-frame1590076193768']}
+2020-05-22 00:05:797 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 01:05:977 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 01:05:251 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 01:05:469 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:873 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 01:05:276 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:70 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e40233f41b8d8e3fdb391c204b5dc275)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 01:05:506 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:508 INFO  LoginPage:58 - click on sign in link
+2020-05-22 01:05:933 INFO  LoginPage:64 - enter email
+2020-05-22 01:05:319 INFO  LoginPage:69 - enter passwordS
+2020-05-22 01:05:556 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 01:05:758 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 01:05:404 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:427 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e40233f41b8d8e3fdb391c204b5dc275)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 01:05:489 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:301 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 01:05:857 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:873 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e40233f41b8d8e3fdb391c204b5dc275)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 01:05:925 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:926 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-22 01:05:988 INFO  ProductCategoryPage:143 - performaning mouse over on first product  of page
+2020-05-22 01:05:784 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 01:05:785 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-22 01:05:566 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='fancybox-frame1590076193768']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e40233f41b8d8e3fdb391c204b5dc275
+*** Element info: {Using=xpath, value=//*[@id='fancybox-frame1590076193768']}
+2020-05-22 01:05:349 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 01:05:489 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 01:05:475 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 01:05:164 INFO  TestBase:115 - initialize  web driver2061440682
+2020-05-22 01:05:256 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:224 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 01:05:716 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 01:05:738 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:112 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 01:05:719 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:525 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (bcda0a6524ae55e9e40d7803bf45f8f0)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 01:05:783 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:785 INFO  LoginPage:58 - click on sign in link
+2020-05-22 01:05:439 INFO  LoginPage:64 - enter email
+2020-05-22 01:05:769 INFO  LoginPage:69 - enter passwordS
+2020-05-22 01:05:108 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 01:05:143 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 01:05:90 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:202 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (bcda0a6524ae55e9e40d7803bf45f8f0)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 01:05:324 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:767 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 01:05:836 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:867 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (bcda0a6524ae55e9e40d7803bf45f8f0)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 01:05:978 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:979 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-22 01:05:963 INFO  ProductCategoryPage:143 - performaning mouse over on first product  of page
+2020-05-22 01:05:903 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 01:05:904 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-22 01:05:451 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: -0.033
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64710}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 074a572734a2f2f8b721f27d1dd63e3e
+2020-05-22 01:05:442 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 01:05:720 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@id='fancybox-frame1590087821214']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bcda0a6524ae55e9e40d7803bf45f8f0
+*** Element info: {Using=xpath, value=//iframe[@id='fancybox-frame1590087821214']}
+2020-05-22 01:05:333 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 01:05:15 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 01:05:989 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 01:05:13 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:326 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 01:05:819 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:909 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (8802adf3c4698ca56171cae06b754271)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 01:05:292 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:293 INFO  LoginPage:58 - click on sign in link
+2020-05-22 01:05:447 INFO  LoginPage:64 - enter email
+2020-05-22 01:05:157 INFO  LoginPage:69 - enter passwordS
+2020-05-22 01:05:363 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 01:05:480 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 01:05:599 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:650 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (8802adf3c4698ca56171cae06b754271)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 01:05:770 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:11 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 01:05:81 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 01:05:100 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (8802adf3c4698ca56171cae06b754271)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 01:05:176 INFO  WaitHelper:98 - element id present now
+2020-05-22 01:05:177 INFO  ProductCategoryPage:81 - clicking on WomenLink
+2020-05-22 01:05:298 INFO  ProductCategoryPage:143 - performaning mouse over on first product  of page
+2020-05-22 01:05:993 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 01:05:993 INFO  ProductCategoryPage:71 - clicking on quick view
+2020-05-22 01:05:76 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.TimeoutException: Expected condition failed: waiting for frame to be available: Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='fancybox-frame1590087821214']' (tried for 200 second(s) with 500 milliseconds interval)
+2020-05-22 01:05:192 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 15:05:317 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 15:05:237 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 15:05:424 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:316 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 15:05:642 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:879 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e6895bb012398f1f9b5e7cc4fe35eabe)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 15:05:881 INFO  WaitHelper:98 - element id present now
+2020-05-22 15:05:883 INFO  LoginPage:58 - click on sign in link
+2020-05-22 15:05:739 INFO  LoginPage:64 - enter email
+2020-05-22 15:05:331 INFO  LoginPage:69 - enter passwordS
+2020-05-22 15:05:637 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 15:05:671 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 15:05:698 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:729 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e6895bb012398f1f9b5e7cc4fe35eabe)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 15:05:875 INFO  WaitHelper:98 - element id present now
+2020-05-22 15:05:54 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 15:05:108 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:124 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e6895bb012398f1f9b5e7cc4fe35eabe)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 15:05:175 INFO  WaitHelper:98 - element id present now
+2020-05-22 15:05:176 INFO  ProductCategoryPage:84 - clicking on WomenLink
+2020-05-22 15:05:306 INFO  ProductCategoryPage:148 - performaning mouse over on first product  of page
+2020-05-22 15:05:653 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 15:05:654 INFO  ProductCategoryPage:74 - clicking on quick view
+2020-05-22 15:05:227 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@id='fancybox-frame1590087821214']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:52726}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e6895bb012398f1f9b5e7cc4fe35eabe
+*** Element info: {Using=xpath, value=//iframe[@id='fancybox-frame1590087821214']}
+2020-05-22 15:05:57 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 15:05:583 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 15:05:378 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 15:05:412 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:766 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 15:05:563 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:996 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (2d7ca159fb3b845a1e9f51284b20adf6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 15:05:218 INFO  WaitHelper:98 - element id present now
+2020-05-22 15:05:219 INFO  LoginPage:58 - click on sign in link
+2020-05-22 15:05:719 INFO  LoginPage:64 - enter email
+2020-05-22 15:05:473 INFO  LoginPage:69 - enter passwordS
+2020-05-22 15:05:781 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 15:05:880 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 15:05:413 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:461 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (2d7ca159fb3b845a1e9f51284b20adf6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 15:05:543 INFO  WaitHelper:98 - element id present now
+2020-05-22 15:05:719 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 15:05:785 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 15:05:806 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (2d7ca159fb3b845a1e9f51284b20adf6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 15:05:891 INFO  WaitHelper:98 - element id present now
+2020-05-22 15:05:893 INFO  ProductCategoryPage:84 - clicking on WomenLink
+2020-05-22 15:05:692 INFO  ProductCategoryPage:148 - performaning mouse over on first product  of page
+2020-05-22 15:05:34 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 15:05:35 INFO  ProductCategoryPage:74 - clicking on quick view
+2020-05-22 15:05:804 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 15:05:840 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 15:05:841 INFO  ProductCategoryPage:94 - clicking on to quantity increase button
+2020-05-22 15:05:255 INFO  ProductCategoryPage:99 - clicking on Add to cart
+2020-05-22 15:05:479 INFO  ProductCategoryPage:104 - clicking on to proceed to checkout
+2020-05-22 15:05:256 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchWindowException: no such window
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:53050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2d7ca159fb3b845a1e9f51284b20adf6
+*** Element info: {Using=xpath, value=//a[@class='btn btn-default button button-medium']}
+2020-05-22 15:05:529 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:755 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:145 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:214 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:829 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:229 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:326 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (97f1b6832fb0355ef273806acb65112e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:757 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:758 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:901 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:984 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:330 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:376 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:507 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:546 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (97f1b6832fb0355ef273806acb65112e)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:641 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:878 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:924 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:940 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (97f1b6832fb0355ef273806acb65112e)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:990 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:991 INFO  ProductCategoryPage:88 - clicking on WomenLink
+2020-05-22 16:05:595 INFO  ProductCategoryPage:154 - performaning mouse over on first product  of page
+2020-05-22 16:05:962 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:963 INFO  ProductCategoryPage:78 - clicking on quick view
+2020-05-22 16:05:724 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:760 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:761 INFO  ProductCategoryPage:98 - clicking on to quantity increase button
+2020-05-22 16:05:48 INFO  ProductCategoryPage:103 - clicking on Add to cart
+2020-05-22 16:05:400 INFO  ProductCategoryPage:109 - clicking on to proceed to checkout
+2020-05-22 16:05:218 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchWindowException: no such window
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:53525}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 97f1b6832fb0355ef273806acb65112e
+*** Element info: {Using=xpath, value=//a[@class='btn btn-default button button-medium']}
+2020-05-22 16:05:603 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:98 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:777 INFO  TestBase:115 - initialize  web driver2061440682
+2020-05-22 16:05:830 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:426 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:573 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:531 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3b9f528064d857422f3a42f4663b915a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:970 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:971 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:791 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:51 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:429 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:453 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:684 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:720 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3b9f528064d857422f3a42f4663b915a)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:809 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:14 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:45 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:61 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (3b9f528064d857422f3a42f4663b915a)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:114 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:116 INFO  ProductCategoryPage:88 - clicking on WomenLink
+2020-05-22 16:05:738 INFO  ProductCategoryPage:155 - performaning mouse over on first product  of page
+2020-05-22 16:05:102 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:103 INFO  ProductCategoryPage:78 - clicking on quick view
+2020-05-22 16:05:448 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:514 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:515 INFO  ProductCategoryPage:98 - clicking on to quantity increase button
+2020-05-22 16:05:824 INFO  ProductCategoryPage:103 - clicking on Add to cart
+2020-05-22 16:05:267 INFO  ProductCategoryPage:109 - clicking on to proceed to checkout
+2020-05-22 16:05:824 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchWindowException: no such window
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:53792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b9f528064d857422f3a42f4663b915a
+*** Element info: {Using=xpath, value=//a[@class='btn btn-default button button-medium']}
+2020-05-22 16:05:224 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:924 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:838 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:96 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:768 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:774 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:141 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (04a83cdcb8b806e9a1bd06269da4767e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:572 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:573 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:736 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:576 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:823 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:852 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:966 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:45 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (04a83cdcb8b806e9a1bd06269da4767e)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:103 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:586 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:275 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:296 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (04a83cdcb8b806e9a1bd06269da4767e)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:351 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:352 INFO  ProductCategoryPage:88 - clicking on WomenLink
+2020-05-22 16:05:374 INFO  ProductCategoryPage:155 - performaning mouse over on first product  of page
+2020-05-22 16:05:355 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:356 INFO  ProductCategoryPage:78 - clicking on quick view
+2020-05-22 16:05:228 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:263 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:264 INFO  ProductCategoryPage:98 - clicking on to quantity increase button
+2020-05-22 16:05:544 INFO  ProductCategoryPage:103 - clicking on Add to cart
+2020-05-22 16:05:738 INFO  ProductCategoryPage:109 - clicking on to proceed to checkout
+2020-05-22 16:05:231 INFO  ProductCategoryPage:116 - clicking on to orderProToCheckOut
+2020-05-22 16:05:966 INFO  ProductCategoryPage:121 - clicking on to addrProToCheckOut
+2020-05-22 16:05:224 INFO  ProductCategoryPage:125 - clicking on to carrProToCheckOut
+2020-05-22 16:05:427 INFO  ProductCategoryPage:130 - clicking on to termCondition
+2020-05-22 16:05:585 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <label for="cgv">...</label> is not clickable at point (329, 513). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="display: block; width: auto; height: auto;">...</div>
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:54102}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 04a83cdcb8b806e9a1bd06269da4767e
+2020-05-22 16:05:244 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:648 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:778 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:947 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:580 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:421 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:55 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6d7346824ae2c4617a251054744a3ffb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:605 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:606 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:675 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:546 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:736 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:816 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:199 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:278 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6d7346824ae2c4617a251054744a3ffb)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:412 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:602 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:628 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:644 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (6d7346824ae2c4617a251054744a3ffb)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:692 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:693 INFO  ProductCategoryPage:88 - clicking on WomenLink
+2020-05-22 16:05:241 INFO  ProductCategoryPage:155 - performaning mouse over on first product  of page
+2020-05-22 16:05:761 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:762 INFO  ProductCategoryPage:78 - clicking on quick view
+2020-05-22 16:05:286 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:346 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:347 INFO  ProductCategoryPage:98 - clicking on to quantity increase button
+2020-05-22 16:05:657 INFO  ProductCategoryPage:103 - clicking on Add to cart
+2020-05-22 16:05:931 INFO  ProductCategoryPage:109 - clicking on to proceed to checkout
+2020-05-22 16:05:950 INFO  ProductCategoryPage:116 - clicking on to orderProToCheckOut
+2020-05-22 16:05:04 INFO  ProductCategoryPage:121 - clicking on to addrProToCheckOut
+2020-05-22 16:05:549 INFO  ProductCategoryPage:125 - clicking on to carrProToCheckOut
+2020-05-22 16:05:801 INFO  ProductCategoryPage:130 - clicking on to termCondition
+2020-05-22 16:05:15 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="cgv" id="cgv" value="1"> is not clickable at point (115, 513). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="display: block; width: auto; height: auto;">...</div>
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:54513}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6d7346824ae2c4617a251054744a3ffb
+2020-05-22 16:05:293 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:351 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:352 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:288 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:316 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:869 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:75 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (9f944f84000f9ec770745456de78865c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:783 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:784 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:39 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:158 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:587 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:802 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:13 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:40 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (9f944f84000f9ec770745456de78865c)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:188 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:459 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:527 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:544 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (9f944f84000f9ec770745456de78865c)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:597 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:598 INFO  ProductCategoryPage:89 - clicking on WomenLink
+2020-05-22 16:05:181 INFO  ProductCategoryPage:163 - performaning mouse over on first product  of page
+2020-05-22 16:05:937 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:938 INFO  ProductCategoryPage:78 - clicking on quick view
+2020-05-22 16:05:257 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:293 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:293 INFO  ProductCategoryPage:99 - clicking on to quantity increase button
+2020-05-22 16:05:595 INFO  ProductCategoryPage:104 - clicking on Add to cart
+2020-05-22 16:05:791 INFO  ProductCategoryPage:110 - clicking on to proceed to checkout
+2020-05-22 16:05:129 INFO  ProductCategoryPage:117 - clicking on to orderProToCheckOut
+2020-05-22 16:05:240 INFO  ProductCategoryPage:122 - clicking on to addrProToCheckOut
+2020-05-22 16:05:723 INFO  ProductCategoryPage:127 - clicking on to carrProToCheckOut
+2020-05-22 16:05:88 INFO  ProductCategoryPage:132 - clicking on to termCondition
+2020-05-22 16:05:180 ERROR ExtentListener:37 - testProductCheckout reporter test failed java.lang.NullPointerException
+2020-05-22 16:05:984 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:301 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:506 INFO  TestBase:115 - initialize  web driver2061440682
+2020-05-22 16:05:894 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:286 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:152 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:80 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c7a6d1a7600327c90d03608eeaf75349)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:318 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:319 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:335 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:274 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:537 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:814 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:337 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:562 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c7a6d1a7600327c90d03608eeaf75349)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:677 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:39 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:70 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:90 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c7a6d1a7600327c90d03608eeaf75349)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:140 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:141 INFO  ProductCategoryPage:90 - clicking on WomenLink
+2020-05-22 16:05:457 INFO  ProductCategoryPage:164 - performaning mouse over on first product  of page
+2020-05-22 16:05:891 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:892 INFO  ProductCategoryPage:79 - clicking on quick view
+2020-05-22 16:05:917 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:953 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:954 INFO  ProductCategoryPage:100 - clicking on to quantity increase button
+2020-05-22 16:05:437 INFO  ProductCategoryPage:105 - clicking on Add to cart
+2020-05-22 16:05:348 INFO  ProductCategoryPage:111 - clicking on to proceed to checkout
+2020-05-22 16:05:125 INFO  ProductCategoryPage:118 - clicking on to orderProToCheckOut
+2020-05-22 16:05:898 INFO  ProductCategoryPage:123 - clicking on to addrProToCheckOut
+2020-05-22 16:05:460 INFO  ProductCategoryPage:128 - clicking on to carrProToCheckOut
+2020-05-22 16:05:744 INFO  ProductCategoryPage:133 - clicking on to termCondition
+2020-05-22 16:05:901 ERROR ExtentListener:37 - testProductCheckout reporter test failed java.lang.NullPointerException
+2020-05-22 16:05:544 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:848 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:824 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:85 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:505 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:542 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:768 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (8a9d04e6e111bcd3419b85055b2eb5be)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:28 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:29 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:703 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:990 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:257 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:260 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:43 INFO  JavascriptHelper:22 - it is javascriptexecutor
+2020-05-22 16:05:44 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:110 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (8a9d04e6e111bcd3419b85055b2eb5be)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:264 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:988 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:299 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:754 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:869 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:417 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:501 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:148 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (01b3d2e5abd19296a7d96eeabad75719)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:648 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:649 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:930 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:781 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:89 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:685 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 16:05:48 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 16:05:49 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:77 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (01b3d2e5abd19296a7d96eeabad75719)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:568 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:521 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:695 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 16:05:696 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:740 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (01b3d2e5abd19296a7d96eeabad75719)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:892 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:893 INFO  ProductCategoryPage:90 - clicking on WomenLink
+2020-05-22 16:05:353 INFO  ProductCategoryPage:164 - performaning mouse over on first product  of page
+2020-05-22 16:05:79 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:80 INFO  ProductCategoryPage:79 - clicking on quick view
+2020-05-22 16:05:885 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:923 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:924 INFO  ProductCategoryPage:100 - clicking on to quantity increase button
+2020-05-22 16:05:248 INFO  ProductCategoryPage:105 - clicking on Add to cart
+2020-05-22 16:05:410 INFO  ProductCategoryPage:111 - clicking on to proceed to checkout
+2020-05-22 16:05:684 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="btn btn-default button button-medium" href="http://automationpractice.com/index.php?controller=order" title="Proceed to checkout" rel="nofollow">...</a> is not clickable at point (1015, 394). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="display: block; width: auto; height: auto; opacity: 1;"></div>
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55719}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 01b3d2e5abd19296a7d96eeabad75719
+2020-05-22 16:05:308 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 16:05:583 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 16:05:797 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 16:05:764 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:255 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 16:05:524 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:408 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (a3b673618a6318db012c0378e3adacb5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 16:05:226 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:228 INFO  LoginPage:58 - click on sign in link
+2020-05-22 16:05:854 INFO  LoginPage:64 - enter email
+2020-05-22 16:05:510 INFO  LoginPage:69 - enter passwordS
+2020-05-22 16:05:233 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 16:05:362 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 16:05:57 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 16:05:57 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:116 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (a3b673618a6318db012c0378e3adacb5)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:217 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:503 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 16:05:670 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 16:05:671 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 16:05:695 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (a3b673618a6318db012c0378e3adacb5)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 16:05:334 INFO  WaitHelper:98 - element id present now
+2020-05-22 16:05:335 INFO  ProductCategoryPage:90 - clicking on WomenLink
+2020-05-22 16:05:522 INFO  ProductCategoryPage:164 - performaning mouse over on first product  of page
+2020-05-22 16:05:110 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 16:05:111 INFO  ProductCategoryPage:79 - clicking on quick view
+2020-05-22 16:05:220 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 16:05:273 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 16:05:274 INFO  ProductCategoryPage:100 - clicking on to quantity increase button
+2020-05-22 16:05:641 INFO  ProductCategoryPage:105 - clicking on Add to cart
+2020-05-22 16:05:879 INFO  ProductCategoryPage:111 - clicking on to proceed to checkout
+2020-05-22 16:05:420 INFO  ProductCategoryPage:118 - clicking on to orderProToCheckOut
+2020-05-22 16:05:541 INFO  ProductCategoryPage:123 - clicking on to addrProToCheckOut
+2020-05-22 16:05:222 INFO  ProductCategoryPage:128 - clicking on to carrProToCheckOut
+2020-05-22 16:05:550 INFO  ProductCategoryPage:133 - clicking on to termCondition
+2020-05-22 16:05:124 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="cgv" id="cgv" value="1"> is not clickable at point (115, 7). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="display: block; width: auto; height: auto;">...</div>
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:56166}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a3b673618a6318db012c0378e3adacb5
+2020-05-22 16:05:509 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 17:05:585 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 17:05:859 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 17:05:38 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:585 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 17:05:409 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:717 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (9b8245168a97b21d72238de62bccfde2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 17:05:88 INFO  WaitHelper:98 - element id present now
+2020-05-22 17:05:89 INFO  LoginPage:58 - click on sign in link
+2020-05-22 17:05:981 INFO  LoginPage:64 - enter email
+2020-05-22 17:05:279 INFO  LoginPage:69 - enter passwordS
+2020-05-22 17:05:584 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 17:05:743 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 17:05:713 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 17:05:714 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:740 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (9b8245168a97b21d72238de62bccfde2)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 17:05:832 INFO  WaitHelper:98 - element id present now
+2020-05-22 17:05:211 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 17:05:349 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 17:05:349 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:368 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (9b8245168a97b21d72238de62bccfde2)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 17:05:420 INFO  WaitHelper:98 - element id present now
+2020-05-22 17:05:421 INFO  ProductCategoryPage:90 - clicking on WomenLink
+2020-05-22 17:05:279 INFO  ProductCategoryPage:164 - performaning mouse over on first product  of page
+2020-05-22 17:05:882 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 17:05:882 INFO  ProductCategoryPage:79 - clicking on quick view
+2020-05-22 17:05:548 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 17:05:628 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 17:05:629 INFO  ProductCategoryPage:100 - clicking on to quantity increase button
+2020-05-22 17:05:210 INFO  ProductCategoryPage:105 - clicking on Add to cart
+2020-05-22 17:05:554 INFO  ProductCategoryPage:111 - clicking on to proceed to checkout
+2020-05-22 17:05:872 INFO  ProductCategoryPage:118 - clicking on to orderProToCheckOut
+2020-05-22 17:05:711 INFO  ProductCategoryPage:123 - clicking on to addrProToCheckOut
+2020-05-22 17:05:319 INFO  ProductCategoryPage:128 - clicking on to carrProToCheckOut
+2020-05-22 17:05:550 INFO  ProductCategoryPage:133 - clicking on to termCondition
+2020-05-22 17:05:654 INFO  ProductCategoryPage:138 - clicking on to confirmOrder
+2020-05-22 17:05:754 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='button btn btn-default button-medium']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:56874}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b8245168a97b21d72238de62bccfde2
+*** Element info: {Using=xpath, value=//button[@class='button btn btn-default button-medium']}
+2020-05-22 17:05:367 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 17:05:96 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 17:05:247 INFO  TestBase:115 - initialize  web driver385332399
+2020-05-22 17:05:405 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:641 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 17:05:869 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:581 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (4ff690a69376485215c1b32dff0f45bf)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 17:05:117 INFO  WaitHelper:98 - element id present now
+2020-05-22 17:05:119 INFO  LoginPage:58 - click on sign in link
+2020-05-22 17:05:357 INFO  LoginPage:64 - enter email
+2020-05-22 17:05:376 INFO  LoginPage:69 - enter passwordS
+2020-05-22 17:05:07 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 17:05:266 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 17:05:618 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 17:05:619 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:649 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (4ff690a69376485215c1b32dff0f45bf)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 17:05:777 INFO  WaitHelper:98 - element id present now
+2020-05-22 17:05:207 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 17:05:300 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 17:05:301 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 17:05:335 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (4ff690a69376485215c1b32dff0f45bf)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 17:05:406 INFO  WaitHelper:98 - element id present now
+2020-05-22 17:05:407 INFO  ProductCategoryPage:90 - clicking on WomenLink
+2020-05-22 17:05:431 INFO  ProductCategoryPage:164 - performaning mouse over on first product  of page
+2020-05-22 17:05:874 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 17:05:875 INFO  ProductCategoryPage:79 - clicking on quick view
+2020-05-22 17:05:229 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 17:05:290 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 17:05:290 INFO  ProductCategoryPage:100 - clicking on to quantity increase button
+2020-05-22 17:05:577 INFO  ProductCategoryPage:105 - clicking on Add to cart
+2020-05-22 17:05:928 INFO  ProductCategoryPage:111 - clicking on to proceed to checkout
+2020-05-22 17:05:162 INFO  ProductCategoryPage:118 - clicking on to orderProToCheckOut
+2020-05-22 17:05:324 INFO  ProductCategoryPage:123 - clicking on to addrProToCheckOut
+2020-05-22 17:05:22 INFO  ProductCategoryPage:128 - clicking on to carrProToCheckOut
+2020-05-22 17:05:288 INFO  ProductCategoryPage:133 - clicking on to termCondition
+2020-05-22 17:05:349 INFO  ProductCategoryPage:138 - clicking on to confirmOrder
+2020-05-22 17:05:507 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span>...</span> is not clickable at point (1128, 597). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="display: block; width: auto; height: auto;">...</div>
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4ff690a69376485215c1b32dff0f45bf
+2020-05-22 17:05:807 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 18:05:371 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 18:05:38 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 18:05:99 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 18:05:850 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 18:05:921 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 18:05:277 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (24218942da8b96e16216c8eaca8021ab)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 18:05:666 INFO  WaitHelper:98 - element id present now
+2020-05-22 18:05:667 INFO  LoginPage:58 - click on sign in link
+2020-05-22 18:05:302 INFO  LoginPage:64 - enter email
+2020-05-22 18:05:135 INFO  LoginPage:69 - enter passwordS
+2020-05-22 18:05:433 INFO  LoginPage:74 - clicking on submit button
+2020-05-22 18:05:467 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 18:05:220 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 18:05:221 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 18:05:262 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (24218942da8b96e16216c8eaca8021ab)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 18:05:357 INFO  WaitHelper:98 - element id present now
+2020-05-22 18:05:657 INFO  VerificationHelper:23 - element is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 18:05:922 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 18:05:923 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 18:05:955 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (24218942da8b96e16216c8eaca8021ab)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 18:05:67 INFO  WaitHelper:98 - element id present now
+2020-05-22 18:05:68 INFO  ProductCategoryPage:90 - clicking on WomenLink
+2020-05-22 18:05:852 INFO  ProductCategoryPage:164 - performaning mouse over on first product  of page
+2020-05-22 18:05:317 INFO  VerificationHelper:23 - element is displayed  WOMEN
+2020-05-22 18:05:318 INFO  ProductCategoryPage:79 - clicking on quick view
+2020-05-22 18:05:298 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 18:05:380 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 18:05:381 INFO  ProductCategoryPage:100 - clicking on to quantity increase button
+2020-05-22 18:05:794 INFO  ProductCategoryPage:105 - clicking on Add to cart
+2020-05-22 18:05:30 INFO  ProductCategoryPage:111 - clicking on to proceed to checkout
+2020-05-22 18:05:685 INFO  ProductCategoryPage:118 - clicking on to orderProToCheckOut
+2020-05-22 18:05:504 INFO  ProductCategoryPage:123 - clicking on to addrProToCheckOut
+2020-05-22 18:05:247 INFO  ProductCategoryPage:128 - clicking on to carrProToCheckOut
+2020-05-22 18:05:455 INFO  ProductCategoryPage:133 - clicking on to termCondition
+2020-05-22 18:05:546 INFO  ProductCategoryPage:138 - clicking on to confirmOrder
+2020-05-22 18:05:311 INFO  ProductCategoryPage:171 - verify total amount before payment
+2020-05-22 18:05:449 INFO  VerificationHelper:23 - element is displayed  $35.02
+2020-05-22 18:05:477 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-22 18:05:504 INFO  LoginTest:51 - $35.02
+2020-05-22 18:05:505 INFO  ProductCategoryPage:143 - clicking on to bankWire
+2020-05-22 18:05:907 INFO  ProductCategoryPage:138 - clicking on to confirmOrder
+2020-05-22 18:05:18 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62547}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 24218942da8b96e16216c8eaca8021ab
+*** Element info: {Using=xpath, value=//button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]}
+2020-05-22 18:05:174 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-22 22:05:28 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-22 22:05:04 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-22 22:05:76 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 22:05:743 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-22 22:05:909 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 22:05:665 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-22 22:05:964 INFO  WaitHelper:98 - element id present now
+2020-05-22 22:05:965 INFO  LoginPage:59 - click on sign in link
+2020-05-22 22:05:689 INFO  LoginPage:65 - enter email
+2020-05-22 22:05:754 INFO  LoginPage:70 - enter passwordS
+2020-05-22 22:05:186 INFO  LoginPage:75 - clicking on submit button
+2020-05-22 22:05:396 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 22:05:974 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 22:05:975 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 22:05:14 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 22:05:81 INFO  WaitHelper:98 - element id present now
+2020-05-22 22:05:243 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //*[@id='center_column']/p] is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-22 22:05:247 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-22 22:05:249 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-22 22:05:274 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 22:05:328 INFO  WaitHelper:98 - element id present now
+2020-05-22 22:05:329 INFO  ProductCategoryPage:97 - clicking on WomenLink
+2020-05-22 22:05:360 INFO  ProductCategoryPage:190 - performaning mouse over on first product  of page
+2020-05-22 22:05:28 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]] is displayed  WOMEN
+2020-05-22 22:05:29 INFO  ProductCategoryPage:85 - clicking on quick view
+2020-05-22 22:05:152 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-22 22:05:258 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-22 22:05:258 INFO  ProductCategoryPage:108 - clicking on to quantity increase button
+2020-05-22 22:05:230 INFO  ProductCategoryPage:114 - clicking on Add to cart
+2020-05-22 22:05:917 INFO  ProductCategoryPage:120 - clicking on to proceed to checkout
+2020-05-22 22:05:175 INFO  ProductCategoryPage:128 - clicking on to orderProToCheckOut
+2020-05-22 22:05:77 INFO  ProductCategoryPage:134 - clicking on to addrProToCheckOut
+2020-05-22 22:05:957 INFO  ProductCategoryPage:140 - clicking on to carrProToCheckOut
+2020-05-22 22:05:167 INFO  ProductCategoryPage:146 - clicking on to termCondition
+2020-05-22 22:05:232 INFO  ProductCategoryPage:152 - clicking on to confirmOrder
+2020-05-22 22:05:186 INFO  ProductCategoryPage:197 - verify total amount before payment
+2020-05-22 22:05:336 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //span[@id='total_price']] is displayed  $35.02
+2020-05-22 22:05:366 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-22 22:05:395 INFO  ProductCategoryPage:158 - clicking on to bankWire
+2020-05-22 22:05:644 INFO  ProductCategoryPage:165 - clicking on to I confirm my order
+2020-05-22 22:05:343 INFO  ProductCategoryPage:171 - clicking on to acct_profile
+2020-05-22 22:05:743 INFO  ProductCategoryPage:204 - verify total amount before payment
+2020-05-22 22:05:781 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-22 22:05:844 INFO  WaitHelper:98 - element id present now
+2020-05-22 22:05:959 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c71e1182316c0809ed76af0cae9ab6c6)] -> xpath: //h1[@class='page-heading']] is displayed  MY ACCOUNT
+2020-05-22 22:05:991 INFO  VerificationHelper:42 - element text is MY ACCOUNT
+2020-05-22 22:05:28 INFO  LoginTest:55 - MY ACCOUNT
+2020-05-22 22:05:28 INFO  ProductCategoryPage:177 - clicking on to orderHostory
+2020-05-22 22:05:739 INFO  ExtentListener:31 - testProductCheckout reporter test success
+2020-05-22 22:05:994 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:237 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:767 INFO  TestBase:108 - Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: ChromeDriver
+2020-05-23 00:05:28 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:37 WARN  ExtentListener:44 - testProductCheckout reporter test skipped org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: ChromeDriver
+2020-05-23 00:05:929 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:735 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:889 INFO  TestBase:108 - unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006A0C83+1707139]
+	Ordinal0 [0x006068F1+1075441]
+	Ordinal0 [0x0057DFC9+516041]
+	Ordinal0 [0x0050FB81+64385]
+	Ordinal0 [0x0050CC5B+52315]
+	Ordinal0 [0x0052BFD7+180183]
+	Ordinal0 [0x0052BDDD+179677]
+	Ordinal0 [0x00529D4B+171339]
+	Ordinal0 [0x00511D4A+73034]
+	Ordinal0 [0x00512DC0+77248]
+	Ordinal0 [0x00512D59+77145]
+	Ordinal0 [0x0061BB67+1162087]
+	GetHandleVerifier [0x0073A966+508998]
+	GetHandleVerifier [0x0073A6A4+508292]
+	GetHandleVerifier [0x0074F7B7+594583]
+	GetHandleVerifier [0x0073B1D6+511158]
+	Ordinal0 [0x0061402C+1130540]
+	Ordinal0 [0x0061D4CB+1168587]
+	Ordinal0 [0x0061D633+1168947]
+	Ordinal0 [0x00635B35+1268533]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77D97C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77D97BF4+180]
+
+2020-05-23 00:05:578 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:587 WARN  ExtentListener:44 - testProductCheckout reporter test skipped org.openqa.selenium.WebDriverException: unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006A0C83+1707139]
+	Ordinal0 [0x006068F1+1075441]
+	Ordinal0 [0x0057DFC9+516041]
+	Ordinal0 [0x0050FB81+64385]
+	Ordinal0 [0x0050CC5B+52315]
+	Ordinal0 [0x0052BFD7+180183]
+	Ordinal0 [0x0052BDDD+179677]
+	Ordinal0 [0x00529D4B+171339]
+	Ordinal0 [0x00511D4A+73034]
+	Ordinal0 [0x00512DC0+77248]
+	Ordinal0 [0x00512D59+77145]
+	Ordinal0 [0x0061BB67+1162087]
+	GetHandleVerifier [0x0073A966+508998]
+	GetHandleVerifier [0x0073A6A4+508292]
+	GetHandleVerifier [0x0074F7B7+594583]
+	GetHandleVerifier [0x0073B1D6+511158]
+	Ordinal0 [0x0061402C+1130540]
+	Ordinal0 [0x0061D4CB+1168587]
+	Ordinal0 [0x0061D633+1168947]
+	Ordinal0 [0x00635B35+1268533]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77D97C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77D97BF4+180]
+
+2020-05-23 00:05:433 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:453 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:728 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-23 00:05:382 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:305 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:350 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: -0.029
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:52496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1010cda527fcbc63b00561e0e36984a4
+2020-05-23 00:05:399 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:911 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:357 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-23 00:05:793 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:196 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:668 ERROR ExtentListener:37 - testProductCheckout reporter test failed org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: -0.025
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-TUU91D1', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Home-SM\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:52886}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa2cbc62735ccce6de477e5b1a2cbe06
+2020-05-23 00:05:179 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:810 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:108 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-23 00:05:595 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:886 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:146 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:989 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-23 00:05:507 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:508 INFO  LoginPage:59 - click on sign in link
+2020-05-23 00:05:305 INFO  LoginPage:65 - enter email
+2020-05-23 00:05:72 INFO  LoginPage:70 - enter passwordS
+2020-05-23 00:05:365 INFO  LoginPage:75 - clicking on submit button
+2020-05-23 00:05:931 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:795 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:796 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:820 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:895 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:56 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //*[@id='center_column']/p] is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-23 00:05:61 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:61 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:85 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:133 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:134 INFO  ProductCategoryPage:101 - clicking on WomenLink
+2020-05-23 00:05:752 INFO  ProductCategoryPage:194 - performaning mouse over on first product  of page
+2020-05-23 00:05:690 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]] is displayed  WOMEN
+2020-05-23 00:05:691 INFO  ProductCategoryPage:89 - clicking on quick view
+2020-05-23 00:05:635 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-23 00:05:672 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-23 00:05:672 INFO  ProductCategoryPage:112 - clicking on to quantity increase button
+2020-05-23 00:05:14 INFO  ProductCategoryPage:118 - clicking on Add to cart
+2020-05-23 00:05:212 INFO  ProductCategoryPage:124 - clicking on to proceed to checkout
+2020-05-23 00:05:868 INFO  ProductCategoryPage:132 - clicking on to orderProToCheckOut
+2020-05-23 00:05:536 INFO  ProductCategoryPage:138 - clicking on to addrProToCheckOut
+2020-05-23 00:05:238 INFO  ProductCategoryPage:144 - clicking on to carrProToCheckOut
+2020-05-23 00:05:463 INFO  ProductCategoryPage:150 - clicking on to termCondition
+2020-05-23 00:05:537 INFO  ProductCategoryPage:156 - clicking on to confirmOrder
+2020-05-23 00:05:244 INFO  ProductCategoryPage:201 - verify total amount before payment
+2020-05-23 00:05:473 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //span[@id='total_price']] is displayed  $35.02
+2020-05-23 00:05:501 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 00:05:531 INFO  ProductCategoryPage:162 - clicking on to bankWire
+2020-05-23 00:05:314 INFO  ProductCategoryPage:169 - clicking on to I confirm my order
+2020-05-23 00:05:43 INFO  ProductCategoryPage:175 - clicking on to acct_profile
+2020-05-23 00:05:787 INFO  ProductCategoryPage:208 - verify total amount before payment
+2020-05-23 00:05:835 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:903 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:30 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (20548b0b04eb68f333bc52d06e9a7b50)] -> xpath: //h1[@class='page-heading']] is displayed  MY ACCOUNT
+2020-05-23 00:05:61 INFO  VerificationHelper:42 - element text is MY ACCOUNT
+2020-05-23 00:05:89 INFO  LoginTest:55 - MY ACCOUNT
+2020-05-23 00:05:89 INFO  ProductCategoryPage:181 - clicking on to orderHostory
+2020-05-23 00:05:966 INFO  ExtentListener:31 - testProductCheckout reporter test success
+2020-05-23 00:05:734 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:571 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:578 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-23 00:05:620 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:442 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:604 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:668 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-23 00:05:175 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:176 INFO  LoginPage:59 - click on sign in link
+2020-05-23 00:05:580 INFO  LoginPage:65 - enter email
+2020-05-23 00:05:410 INFO  LoginPage:70 - enter passwordS
+2020-05-23 00:05:601 INFO  LoginPage:75 - clicking on submit button
+2020-05-23 00:05:603 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:255 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:256 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:286 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:371 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:371 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //*[@id='center_column']/p] is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-23 00:05:382 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:383 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:409 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:454 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:455 INFO  ProductCategoryPage:101 - clicking on WomenLink
+2020-05-23 00:05:996 INFO  ProductCategoryPage:194 - performaning mouse over on first product  of page
+2020-05-23 00:05:348 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]] is displayed  WOMEN
+2020-05-23 00:05:348 INFO  ProductCategoryPage:89 - clicking on quick view
+2020-05-23 00:05:403 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-23 00:05:439 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-23 00:05:439 INFO  ProductCategoryPage:112 - clicking on to quantity increase button
+2020-05-23 00:05:896 INFO  ProductCategoryPage:118 - clicking on Add to cart
+2020-05-23 00:05:113 INFO  ProductCategoryPage:124 - clicking on to proceed to checkout
+2020-05-23 00:05:473 INFO  ProductCategoryPage:132 - clicking on to orderProToCheckOut
+2020-05-23 00:05:434 INFO  ProductCategoryPage:138 - clicking on to addrProToCheckOut
+2020-05-23 00:05:959 INFO  ProductCategoryPage:144 - clicking on to carrProToCheckOut
+2020-05-23 00:05:184 INFO  ProductCategoryPage:150 - clicking on to termCondition
+2020-05-23 00:05:246 INFO  ProductCategoryPage:156 - clicking on to confirmOrder
+2020-05-23 00:05:829 INFO  ProductCategoryPage:201 - verify total amount before payment
+2020-05-23 00:05:954 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //span[@id='total_price']] is displayed  $35.02
+2020-05-23 00:05:989 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 00:05:28 INFO  ProductCategoryPage:162 - clicking on to bankWire
+2020-05-23 00:05:797 INFO  ProductCategoryPage:169 - clicking on to I confirm my order
+2020-05-23 00:05:389 INFO  ProductCategoryPage:175 - clicking on to acct_profile
+2020-05-23 00:05:645 INFO  ProductCategoryPage:208 - verify total amount before payment
+2020-05-23 00:05:700 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:765 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:870 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (c85a3fe1dedeb2cd951d18dcebfb0dcc)] -> xpath: //h1[@class='page-heading']] is displayed  MY ACCOUNT
+2020-05-23 00:05:901 INFO  VerificationHelper:42 - element text is MY ACCOUNT
+2020-05-23 00:05:978 INFO  LoginTest:55 - MY ACCOUNT
+2020-05-23 00:05:978 INFO  ProductCategoryPage:181 - clicking on to orderHostory
+2020-05-23 00:05:864 INFO  ExtentListener:31 - testProductCheckout reporter test success
+2020-05-23 00:05:934 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:366 INFO  ExtentListener:62 - productChechoutTest testng reporter test started...
+2020-05-23 00:05:836 INFO  TestBase:115 - initialize  web driver1731295355
+2020-05-23 00:05:898 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:268 INFO  ExtentListener:24 - testProductCheckout reporter test start
+2020-05-23 00:05:168 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:520 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-23 00:05:717 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:719 INFO  LoginPage:59 - click on sign in link
+2020-05-23 00:05:854 INFO  LoginPage:65 - enter email
+2020-05-23 00:05:29 INFO  LoginPage:70 - enter passwordS
+2020-05-23 00:05:220 INFO  LoginPage:75 - clicking on submit button
+2020-05-23 00:05:273 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:919 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:920 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:963 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:69 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:254 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //*[@id='center_column']/p] is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-23 00:05:259 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:260 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:290 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:359 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:361 INFO  ProductCategoryPage:101 - clicking on WomenLink
+2020-05-23 00:05:988 INFO  ProductCategoryPage:194 - performaning mouse over on first product  of page
+2020-05-23 00:05:375 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]] is displayed  WOMEN
+2020-05-23 00:05:376 INFO  ProductCategoryPage:89 - clicking on quick view
+2020-05-23 00:05:603 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-23 00:05:648 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-23 00:05:648 INFO  ProductCategoryPage:112 - clicking on to quantity increase button
+2020-05-23 00:05:244 INFO  ProductCategoryPage:118 - clicking on Add to cart
+2020-05-23 00:05:488 INFO  ProductCategoryPage:124 - clicking on to proceed to checkout
+2020-05-23 00:05:938 INFO  ProductCategoryPage:132 - clicking on to orderProToCheckOut
+2020-05-23 00:05:659 INFO  ProductCategoryPage:138 - clicking on to addrProToCheckOut
+2020-05-23 00:05:126 INFO  ProductCategoryPage:144 - clicking on to carrProToCheckOut
+2020-05-23 00:05:340 INFO  ProductCategoryPage:150 - clicking on to termCondition
+2020-05-23 00:05:403 INFO  ProductCategoryPage:156 - clicking on to confirmOrder
+2020-05-23 00:05:103 INFO  ProductCategoryPage:201 - verify total amount before payment
+2020-05-23 00:05:285 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //span[@id='total_price']] is displayed  $35.02
+2020-05-23 00:05:313 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 00:05:342 INFO  ProductCategoryPage:162 - clicking on to bankWire
+2020-05-23 00:05:878 INFO  ProductCategoryPage:169 - clicking on to I confirm my order
+2020-05-23 00:05:09 INFO  ProductCategoryPage:175 - clicking on to acct_profile
+2020-05-23 00:05:269 INFO  ProductCategoryPage:208 - verify total amount before payment
+2020-05-23 00:05:303 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:374 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:520 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (e13648b3995ab0f7a9361e474420f9d2)] -> xpath: //h1[@class='page-heading']] is displayed  MY ACCOUNT
+2020-05-23 00:05:555 INFO  VerificationHelper:42 - element text is MY ACCOUNT
+2020-05-23 00:05:582 INFO  LoginTest:55 - MY ACCOUNT
+2020-05-23 00:05:583 INFO  ProductCategoryPage:181 - clicking on to orderHostory
+2020-05-23 00:05:301 INFO  ExtentListener:31 - testProductCheckout reporter test success
+2020-05-23 00:05:364 INFO  ExtentListener:68 - productChechoutTest reporter test finished...
+2020-05-23 00:05:301 INFO  TestBase:115 - initialize  web driver237373286
+2020-05-23 00:05:371 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:540 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:817 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]200 seconds
+2020-05-23 00:05:957 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:958 INFO  LoginPage:59 - click on sign in link
+2020-05-23 00:05:156 INFO  LoginPage:65 - enter email
+2020-05-23 00:05:965 INFO  LoginPage:70 - enter passwordS
+2020-05-23 00:05:259 INFO  LoginPage:75 - clicking on submit button
+2020-05-23 00:05:296 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:96 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:97 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:136 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:226 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:437 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //*[@id='center_column']/p] is displayed  Welcome to your account. Here you can manage all of your personal information and orders.
+2020-05-23 00:05:442 INFO  JavascriptHelper:19 - it is javascriptexecutor
+2020-05-23 00:05:443 INFO  WaitHelper:29 - waitHelper object is created 
+2020-05-23 00:05:468 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:517 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:519 INFO  ProductCategoryPage:101 - clicking on WomenLink
+2020-05-23 00:05:282 INFO  ProductCategoryPage:194 - performaning mouse over on first product  of page
+2020-05-23 00:05:662 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]] is displayed  WOMEN
+2020-05-23 00:05:663 INFO  ProductCategoryPage:89 - clicking on quick view
+2020-05-23 00:05:229 INFO  FrameHelper:43 - switched to : frameProxy element for: DefaultElementLocator 'By.xpath: //iframe[@class='fancybox-iframe']'
+2020-05-23 00:05:266 ERROR VerificationHelper:28 - element is not presentnull
+2020-05-23 00:05:267 INFO  ProductCategoryPage:112 - clicking on to quantity increase button
+2020-05-23 00:05:545 INFO  ProductCategoryPage:118 - clicking on Add to cart
+2020-05-23 00:05:736 INFO  ProductCategoryPage:124 - clicking on to proceed to checkout
+2020-05-23 00:05:233 INFO  ProductCategoryPage:132 - clicking on to orderProToCheckOut
+2020-05-23 00:05:146 INFO  ProductCategoryPage:138 - clicking on to addrProToCheckOut
+2020-05-23 00:05:645 INFO  ProductCategoryPage:144 - clicking on to carrProToCheckOut
+2020-05-23 00:05:915 INFO  ProductCategoryPage:150 - clicking on to termCondition
+2020-05-23 00:05:994 INFO  ProductCategoryPage:156 - clicking on to confirmOrder
+2020-05-23 00:05:616 INFO  ProductCategoryPage:201 - verify total amount before payment
+2020-05-23 00:05:786 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //span[@id='total_price']] is displayed  $35.02
+2020-05-23 00:05:820 INFO  VerificationHelper:42 - element text is $35.02
+2020-05-23 00:05:880 INFO  ProductCategoryPage:162 - clicking on to bankWire
+2020-05-23 00:05:397 INFO  ProductCategoryPage:169 - clicking on to I confirm my order
+2020-05-23 00:05:750 INFO  ProductCategoryPage:175 - clicking on to acct_profile
+2020-05-23 00:05:796 INFO  ProductCategoryPage:208 - verify total amount before payment
+2020-05-23 00:05:840 INFO  WaitHelper:95 - waiting for [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //a[@class='sf-with-ul'][contains(text(),'Women')]]200 seconds
+2020-05-23 00:05:889 INFO  WaitHelper:98 - element id present now
+2020-05-23 00:05:42 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //h1[@class='page-heading']] is displayed  MY ACCOUNT
+2020-05-23 00:05:71 INFO  VerificationHelper:42 - element text is MY ACCOUNT
+2020-05-23 00:05:107 INFO  LoginTest:55 - MY ACCOUNT
+2020-05-23 00:05:108 INFO  ProductCategoryPage:181 - clicking on to orderHostory
+2020-05-23 00:05:426 INFO  ProductCategoryPage:216 - verify total amount orderHisAmt
+2020-05-23 00:05:532 INFO  VerificationHelper:23 - [[ChromeDriver: chrome on WINDOWS (fb6cdfae457c56c9cbf76e60826cbab6)] -> xpath: //table[@id='order-list']//td[3]] is displayed  $35.02
+2020-05-23 00:05:566 INFO  VerificationHelper:42 - element text is $35.02
